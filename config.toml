@@ -1,222 +1,25 @@
-baseurl = "http://vjeantet.fr/"
+baseurl = "http://new.sensualmassage.ru/"
 copyright = "All rights reserved"
-disqusshortname = "vjeantet"
-languagecode = "fr-FR"
+languagecode = "ru-RU"
 paginate = 5
 pluralizelisttitles = false
 theme = "hugo-theme-casper"
-title = "Valère JEANTET"
-[[menu.main]]
-identifier = "securite_security-and-risk-management_security-education-training-and-awareness"
-name = "Security education, training, and awareness"
-parent = "securite_security-and-risk-management"
-weight = 34
-[[menu.main]]
-identifier = "securite_identity-and-access-management_identity-and-access-provisioning-lifecycle-e-g-provisioning-review"
-name = "Identity and access provisioning lifecycle"
-parent = "securite_identity-and-access-management"
-weight = 18
-[[menu.main]]
-identifier = "securite_security-operations_physical-security"
-name = "Physical security"
-parent = "securite_security-operations"
-weight = 26
-[[menu.main]]
-identifier = "securite_security-operations_disaster-recovery-processes-and-plans"
-name = "Disaster recovery processes and plans"
-parent = "securite_security-operations"
-weight = 15
-[[menu.main]]
-identifier = "securite_security-operations_patch-and-vulnerability-management"
-name = "Patch and vulnerability management"
-parent = "securite_security-operations"
-weight = 22
-[[menu.main]]
-identifier = "securite_security-operations_personnel-safety-concerns"
-name = "Personnel safety concerns"
-parent = "securite_security-operations"
-weight = 23
-[[menu.main]]
-identifier = "securite_security-operations_recovery-strategies"
-name = "Recovery strategies"
-parent = "securite_security-operations"
-weight = 30
-[[menu.main]]
-identifier = "securite_security-operations_preventative-measures"
-name = "Preventative measures"
-parent = "securite_security-operations"
-weight = 27
-[[menu.main]]
-identifier = "securite_security-operations_business-continuity-planning-and-exercises"
-name = "Business continuity planning and exercises"
-parent = "securite_security-operations"
-weight = 10
-[[menu.main]]
-identifier = "securite_security-operations_change-management-processes"
-name = "Change management processes"
-parent = "securite_security-operations"
-weight = 11
-[[menu.main]]
-identifier = "securite_security-engineering_physical-security"
-name = "Physical security"
-parent = "securite_security-engineering"
-weight = 25
-[[menu.main]]
-identifier = "securite_security-engineering_mobile-systems-vulnerabilities"
-name = "Mobile systems vulnerabilities"
-parent = "securite_security-engineering"
-weight = 20
-[[menu.main]]
-identifier = "securite_security-engineering_security-capabilities-of-information-systems"
-name = "Security capabilities of information systems"
-parent = "securite_security-engineering"
-weight = 33
-[[menu.main]]
-identifier = "securite_security-engineering_security-architectures-designs-and-solution-elements-vulnerabilities"
-name = "Security architectures, designs, and solution elements vulnerabilities"
-parent = "securite_security-engineering"
-weight = 32
-[[menu.main]]
-identifier = "securite_security-engineering_embedded-devices-and-cyber-physical-systems-vulnerabilities"
-name = "Embedded devices and cyber-physical systems vulnerabilities"
-parent = "securite_security-engineering"
-weight = 16
-[[menu.main]]
-identifier = "securite_security-engineering_web-based-systems-vulnerabilities"
-name = "Web-based systems vulnerabilities"
-parent = "securite_security-engineering"
-weight = 40
-[[menu.main]]
-identifier = "securite_security-engineering_security-evaluation-models"
-name = "Security evaluation models"
-parent = "securite_security-engineering"
-weight = 35
-[[menu.main]]
-identifier = "securite_security-engineering_site-and-facility-design-secure-principles"
-name = "Site and facility design secure principles"
-parent = "securite_security-engineering"
-weight = 38
-[[menu.main]]
-identifier = "securite_security-engineering_cryptography"
-name = "Cryptography"
-parent = "securite_security-engineering"
-weight = 13
-[[menu.main]]
-identifier = "securite_communication-and-network-security_network-attacks"
-name = "Network attacks"
-parent = "securite_communication-and-network-security"
-weight = 21
-[[menu.main]]
-identifier = "securite_asset-security_protect-privacy"
-name = "Protect privacy"
-parent = "securite_asset-security"
-weight = 29
-[[menu.main]]
-identifier = "securite_asset-security_data-security-controls"
-name = "Data security controls"
-parent = "securite_asset-security"
-weight = 14
-[[menu.main]]
-identifier = "securite_asset-security_appropriate-retention"
-name = "Appropriate retention"
-parent = "securite_asset-security"
-weight = 9
-[[menu.main]]
-identifier = "securite_asset-security_ownership-e-g-data-owners-system-owners"
-name = "Ownership"
-parent = "securite_asset-security"
-weight = 6
-[[menu.main]]
-identifier = "securite_asset-security_handling-requirements-e-g-markings-labels-storage"
-name = "Handling requirements"
-parent = "securite_asset-security"
-weight = 17
-[[menu.main]]
-identifier = "securite_security-and-risk-management_compliance"
-name = "Compliance"
-parent = "securite_security-and-risk-management"
-weight = 12
-[[menu.main]]
-identifier = "securite_security-and-risk-management_security-governance-principles"
-name = "Security governance principles"
-parent = "securite_security-and-risk-management"
-weight = 36
-[[menu.main]]
-identifier = "securite_security-and-risk-management_personnel-security-policies"
-name = "Personnel security policies"
-parent = "securite_security-and-risk-management"
-weight = 24
-[[menu.main]]
-identifier = "securite_security-and-risk-management_threat-modeling"
-name = "Threat modeling"
-parent = "securite_security-and-risk-management"
-weight = 39
-[[menu.main]]
-identifier = "securite_security-and-risk-management_professional-ethic"
-name = "Professional ethic"
-parent = "securite_security-and-risk-management"
-weight = 28
-[[menu.main]]
-identifier = "securite_security-and-risk-management_security-policies-standards-procedures-and-guidelines"
-name = "Security policies, standards, procedures and guidelines"
-parent = "securite_security-and-risk-management"
-weight = 37
-[[menu.main]]
-identifier = "securite_security-and-risk-management_business-continuity-requirements"
-name = "business continuity requirements"
-parent = "securite_security-and-risk-management"
-weight = 41
-[[menu.main]]
-identifier = "securite_security-and-risk-management_acquisition-strategy-and-practice"
-name = "Acquisition strategy and practice"
-parent = "securite_security-and-risk-management"
-weight = 8
-[[menu.main]]
-identifier = "securite_security-and-risk-management_risk-management-concepts"
-name = "Risk management concepts"
-parent = "securite_security-and-risk-management"
-weight = 31
-[[menu.main]]
-identifier = "securite_security-and-risk-management_legal-and-regulatory-issues"
-name = "Legal and regulatory issues"
-parent = "securite_security-and-risk-management"
-weight = 19
-[[menu.main]]
-name = "Keybase (secure msg)"
-pre = "<h3>Contact me</h3>"
-url = "https://Keybase.io/vjeantet"
-weight = 5
-[[menu.main]]
-name = "Flipboard magazines"
-url = "https://flipboard.com/@vjeantet"
-weight = 4
-[[menu.main]]
-name = "Twitter timeline"
-url = "https://twitter.com/vjeantet"
-weight = 3
-[[menu.main]]
-name = "Github repos"
-pre = "<h3>Follow me</h3>"
-url = "https://github.com/vjeantet"
-weight = 2
+title = "Sensual massage — Чувственный массаж"
 [[menu.main]]
 identifier = "blog"
-name = "Blog"
+name = "Блог"
 url = "/"
 weight = 1
 [params]
-author = "Valère JEANTET"
-authorbio = "IT software and Security Engineer, Open source enthusiast."
-authorlocation = "Paris, France"
-authorwebsite = "http://vjeantet.fr"
-cover = "images/cover_polenord.jpg"
+author = "_"
+authorbio = "Massage enthusiast."
+authorlocation = "Moscow"
+authorwebsite = "http://sensualmassage.ru"
+cover = "images/cover.jpg"
 customFooterPartial = "netlify.html"
-description = "Whatever the mind of man can conceive and believe, it can achieve."
-githubName = "vjeantet"
-googleAnalyticsUserID = "UA-79101-12"
+description = "Чувственный массаж: искусство касаться, чувствовать, любить"
 hideHUGOSupport = false
 logo = "images/logo.png"
-twitterName = "vjeantet"
 [permalinks]
 post = "/:slug/"
 [sitemap]
